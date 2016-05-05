@@ -1,0 +1,14 @@
+{
+  "name": "Projeto WAGAO",
+  "description": "Está é uma aplicação de teste para conhecimentos do composer",
+  "authors": [
+	{
+	  "name": "Wagner S. Silva",
+	  "email": "wagner.silva@credisis.com.br"
+	}
+  ],
+  "require": {
+	"php": ">=7.0.4",
+	"kevinlebrun/slug.php": "1.*"
+  }
+}
